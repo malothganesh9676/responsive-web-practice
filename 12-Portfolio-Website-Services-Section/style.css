@@ -1,0 +1,41 @@
+
+.services-bg-section {
+    background-color: #52606d;
+}
+
+.service-heading {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #cced00;
+}
+
+.service-title {
+    color: white;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 42px;
+}
+
+.services-card-container {
+    background-color: #323f4b;
+    border-radius: 12px;
+}
+
+.services-card-image {
+    height: 65px;
+    width: 65px;
+}
+
+.services-card-heading {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.services-card-para {
+    color: #9aa5b1;
+    font-size: 22px;
+    font-family: "Roboto";
+}
